@@ -57,7 +57,7 @@ A **tl;dr** from the MDN link, the page title should be:
 
 - _for SEO_
   - descriptive of the page
-  - less than 55-60 characters long
+  - less than 55-60 characters `long
   - unique for each page
 - _for accessibility_
 
